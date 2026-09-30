@@ -1,0 +1,108 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    box-sizing: border-box;
+  }
+
+  html, body, #root {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    background-color: #080c19;
+    color: #e2e8f0;
+    font-family: 'Inter', system-ui, sans-serif;
+    overflow: hidden;
+  }
+
+  ::-webkit-scrollbar {
+    width: 4px;
+    height: 4px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: rgba(100, 116, 139, 0.4);
+    border-radius: 2px;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgba(100, 116, 139, 0.6);
+  }
+}
+
+@layer components {
+  .glass-card {
+    @apply bg-slate-900/60 backdrop-blur-md border border-slate-700/50 rounded-2xl;
+  }
+
+  .glass-card-light {
+    @apply bg-slate-800/40 backdrop-blur-sm border border-slate-600/30 rounded-xl;
+  }
+
+  .status-dot {
+    @apply w-2 h-2 rounded-full;
+  }
+
+  .badge {
+    @apply inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-xs font-medium;
+  }
+
+  .badge-red {
+    @apply badge bg-red-500/20 text-red-300 border border-red-500/30;
+  }
+
+  .badge-yellow {
+    @apply badge bg-yellow-500/20 text-yellow-300 border border-yellow-500/30;
+  }
+
+  .badge-green {
+    @apply badge bg-green-500/20 text-green-300 border border-green-500/30;
+  }
+
+  .badge-blue {
+    @apply badge bg-blue-500/20 text-blue-300 border border-blue-500/30;
+  }
+
+  .badge-purple {
+    @apply badge bg-purple-500/20 text-purple-300 border border-purple-500/30;
+  }
+}
+
+@keyframes orbit {
+  0%   { transform: rotate(0deg) translateX(45px) rotate(0deg); }
+  100% { transform: rotate(360deg) translateX(45px) rotate(-360deg); }
+}
+
+@keyframes ripple {
+  0%   { transform: scale(1); opacity: 0.4; }
+  100% { transform: scale(2.2); opacity: 0; }
+}
+
+@keyframes barWave {
+  0%, 100% { transform: scaleY(0.2); }
+  50% { transform: scaleY(1); }
+}
+
+.animate-ripple {
+  animation: ripple 2s ease-out infinite;
+}
+
+.animate-ripple-delay {
+  animation: ripple 2s ease-out 0.6s infinite;
+}
+
+.bar-wave {
+  animation: barWave 0.8s ease-in-out infinite;
+  transform-origin: bottom;
+}

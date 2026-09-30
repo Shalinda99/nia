@@ -1,0 +1,195 @@
+===== VITAL SIGNS — NORMAL RANGES AND CRITICAL VALUES =====
+
+BLOOD PRESSURE:
+- Normal: 90-120 / 60-80 mmHg
+- Stage 1 HTN: 130-139 / 80-89 mmHg
+- Stage 2 HTN: ≥140 / ≥90 mmHg
+- Hypertensive Crisis: >180 / >120 mmHg — NOTIFY PHYSICIAN IMMEDIATELY
+- Hypotension: SBP <90 mmHg or MAP <65 mmHg — NOTIFY PHYSICIAN
+- Orthostatic hypotension: Drop ≥20 mmHg systolic or ≥10 diastolic within 3 minutes of standing
+
+HEART RATE:
+- Normal: 60-100 bpm
+- Bradycardia: <60 bpm — if symptomatic (dizziness, hypotension) NOTIFY PHYSICIAN
+- Tachycardia: >100 bpm — assess cause (fever, pain, volume depletion, arrhythmia)
+- CRITICAL: <40 or >150 — NOTIFY PHYSICIAN IMMEDIATELY
+
+RESPIRATORY RATE:
+- Normal: 12-20 breaths/min
+- Bradypnea: <10 — risk of respiratory failure, NOTIFY PHYSICIAN
+- Tachypnea: >20 — assess for pneumonia, pain, metabolic acidosis, PE
+- CRITICAL: <8 or >28 — ACTIVATE RAPID RESPONSE
+
+TEMPERATURE:
+- Normal: 36.1-37.2°C (97-99°F)
+- Low-grade fever: 37.2-38°C (99-100.4°F)
+- Fever: >38°C (>100.4°F) — blood cultures, assess for infection source
+- Hyperthermia: >40°C (>104°F) — aggressive cooling, NOTIFY PHYSICIAN
+- Hypothermia: <36°C (<96.8°F) — active warming, assess for sepsis/exposure
+
+OXYGEN SATURATION (SpO2):
+- Normal: 95-100%
+- Acceptable in COPD: 88-92% (avoid over-oxygenation — hypercapnia risk)
+- Low: 90-94% — increase O2, assess cause
+- CRITICAL: <88% — NOTIFY PHYSICIAN, prepare for respiratory support
+- Target: ≥95% (most patients) or 88-92% (COPD/chronic hypercapnia)
+
+===== INTRAVENOUS ACCESS AND MANAGEMENT =====
+
+PERIPHERAL IV SITE SELECTION:
+- Preferred sites: Forearm (cephalic vein, basilic vein), antecubital fossa
+- Avoid: Dominant hand if possible, areas of infection, near joints (elbow), lymphedema arm, AV fistula arm, mastectomy side
+- Gauge selection: 18G (blood products, rapid infusion), 20G (most medications), 22G (elderly/difficult veins)
+
+PERIPHERAL IV INSERTION:
+1. Gather supplies: IV catheter, tourniquet, alcohol/chlorhexidine swab, transparent dressing, tape
+2. Verify physician order; explain procedure to patient
+3. Perform hand hygiene, don gloves
+4. Apply tourniquet 3-4 inches above intended site
+5. Prep skin with alcohol for 30 seconds, allow to dry
+6. Stabilize vein, insert at 10-30 degree angle bevel up
+7. Advance catheter, release tourniquet, connect extension set
+8. Flush with 10mL NS (PUSH-PAUSE technique)
+9. Apply transparent dressing, document date/time/gauge/site
+10. Document in MAR
+
+IV CATHETER CARE AND MAINTENANCE:
+- Change dressing: Every 5-7 days (transparent) or when soiled/loose
+- Change tubing: Q96 hours for standard tubing; Q24H for blood products or lipids; Q12H for propofol
+- CHANGE SITE: Every 72-96 hours OR upon signs of complications
+- Assess every shift: Redness, swelling, pain, infiltration, phlebitis
+
+SIGNS OF IV COMPLICATIONS:
+- Infiltration: Swelling, cool, pale skin around site — REMOVE IV
+- Extravasation: Infiltration of vesicant drug (chemotherapy, vasopressors) — STOP infusion, follow extravasation protocol, NOTIFY PHYSICIAN
+- Phlebitis: Redness, warmth, pain along vein — REMOVE IV, apply warm compress
+- Infection: Redness, warmth, purulent drainage — REMOVE IV, culture site, notify physician
+
+CENTRAL LINE CARE (CLABSI Prevention Bundle):
+1. Hand hygiene before any central line access
+2. Maximal sterile barrier during insertion (full drape, gown, gloves, mask, cap)
+3. Chlorhexidine skin prep (allow to dry 30 seconds)
+4. Optimal site selection: Subclavian preferred > jugular > femoral
+5. Daily necessity review — remove line when no longer needed
+6. Dressing change: Q7 days (transparent) or Q2 days (gauze) or when soiled/loose
+7. Scrub the hub x15 seconds before accessing
+8. Disinfection cap on all ports when not in use
+
+===== BLOOD GLUCOSE MONITORING AND INSULIN ADMINISTRATION =====
+
+BLOOD GLUCOSE TARGET RANGES:
+- General hospital patients (non-ICU): 140-180 mg/dL
+- Critically ill (ICU): 140-180 mg/dL (avoid <70 and >200)
+- Cardiac surgery: 140-180 mg/dL
+- Pregnancy: 60-95 mg/dL (fasting), <140 mg/dL (1hr postprandial)
+
+HYPOGLYCEMIA PROTOCOL (BG <70 mg/dL):
+1. If conscious and able to swallow: 15-20g fast-acting carbohydrates
+   - 4oz (120mL) apple juice or orange juice
+   - 3-4 glucose tablets (4g each)
+   - 8oz regular soda (not diet)
+2. If NPO or unable to take PO: D50W 25mL IV push (provides 12.5g dextrose)
+3. Recheck blood glucose in 15 minutes
+4. Repeat treatment if still <70 mg/dL
+5. Once BG >100 mg/dL, ensure patient has meal or snack
+6. If BG <50 mg/dL (severe): D50W 50mL IV push, notify physician
+7. Document: Pre-treatment BG, treatment given, post-treatment BG
+8. Reassess BG every 30-60 min x2 after hypoglycemia
+
+HYPERGLYCEMIA CORRECTION:
+- Follow sliding scale insulin order (physician-ordered)
+- Notify physician if BG >250 mg/dL not responding to sliding scale
+- Check for ketones if BG >300 mg/dL (DKA screening)
+
+===== FOLEY CATHETER CARE (CAUTI Prevention) =====
+
+INDICATIONS (use only when necessary):
+- Urinary retention
+- Accurate urinary output measurement (hemodynamically unstable)
+- Operative procedures
+- Wound management (stage 3/4 pressure injury in incontinent patient)
+- Palliative care/comfort
+
+INSERTION TECHNIQUE (sterile):
+1. Assess for allergies (latex, betadine)
+2. Sterile field and supplies (sterile gloves, drapes, catheter, collection bag)
+3. Clean per-urethral area with betadine or chlorhexidine (3x downward strokes for female)
+4. Lubricate catheter tip
+5. Insert catheter until urine flows (additional 2-3cm after urine flow in male)
+6. Inflate balloon with sterile water per manufacturer (typically 10mL)
+7. Secure catheter to thigh (prevents trauma)
+8. Ensure collection bag is BELOW bladder level at all times
+
+DAILY MAINTENANCE (CAUTI Prevention Bundle):
+1. Perform hand hygiene before and after any catheter manipulation
+2. Daily pericare with soap and water (do not use antiseptic routinely)
+3. Maintain closed drainage system — do NOT disconnect catheter from drainage bag
+4. Secure catheter to prevent traction
+5. Keep collection bag below bladder level — never rest on floor
+6. Empty drainage bag when 2/3 full or every shift — use separate container per patient
+7. Assess daily necessity — REMOVE when no longer indicated
+8. Document daily: Urine output, color, clarity, odor
+
+===== WOUND CARE AND DRESSING CHANGES =====
+
+WOUND ASSESSMENT (MEASURE):
+- M — Measure: Length x width x depth (cm)
+- E — Exudate: Amount (none, minimal, moderate, heavy) and type (serous, serosanguineous, purulent)
+- A — Appearance: Wound bed (granulation, slough, eschar, necrosis)
+- S — Surrounding skin: Color, warmth, edema, maceration
+- U — Undermining: Depth and direction of undermining/tunneling
+- R — Reassess: Compare to previous assessment
+- E — Edge: Attached, rolled, undermined
+
+WOUND TYPES AND DRESSINGS:
+- Clean/healing wound: Transparent film or simple gauze
+- Wounds with minimal exudate: Hydrocolloid (DuoDerm)
+- Wounds with moderate exudate: Foam dressing
+- Infected/heavily exudating: Calcium alginate, silver dressings
+- Wounds with slough: Enzymatic debrider, hydrogel
+- Tunneling/deep wounds: Packing with saline-moistened gauze or iodoform
+
+SURGICAL WOUND CARE:
+- Keep dry for first 24-48 hours (per surgeon)
+- Then: Clean with NS or mild soap and water
+- Remove dressing: Wet-to-dry NOT recommended (damages granulation tissue)
+- Assess for REEDA: Redness, Edema, Ecchymosis, Drainage, Approximation
+- Signs of infection: Increasing redness, warmth, pain, purulent discharge, fever
+- Staple/suture removal: Per surgeon order (typically 7-14 days depending on site)
+
+===== NASOGASTRIC TUBE (NGT) CARE =====
+
+CONFIRMING NG TUBE PLACEMENT:
+- GOLD STANDARD: Chest X-ray confirmation (required for initial placement and if dislodged)
+- Auscultation alone NOT reliable for confirmation
+- pH testing of aspirate: <5 suggests gastric placement
+- Mark tube at nose insertion point with tape
+- DO NOT use tube until radiographically confirmed
+
+NG TUBE MANAGEMENT:
+- Assess placement before EACH feeding/medication administration
+- Reconfirm if: Patient coughs/vomits, tube moves at marking, respiratory distress
+- Continuous feeds: Check residual Q4H (hold if >250-500mL per facility policy)
+- Keep HOB at 30-45° during and for 1 hour after feeding
+- Flush with 30mL water after medications and Q4H during continuous feeds
+- Reposition tube taping daily to prevent pressure injury
+
+===== SBAR COMMUNICATION TOOL =====
+
+SITUATION:
+"I am [name], nurse caring for [patient name] in room [number]. I'm calling about [specific concern]. The patient appears [acute/stable/deteriorating]."
+
+BACKGROUND:
+"The patient is a [age]-year-old [male/female] with a history of [relevant diagnoses], admitted [date] for [admission diagnosis]. Relevant medications include [list]."
+
+ASSESSMENT:
+"I believe the problem is [your assessment]. The patient's vital signs are [list]. Current status: [mental status, respiratory status, etc.]."
+
+RECOMMENDATION:
+"I need you to [specific request — come see patient, order labs, change medication, transfer]. I also recommend [additional steps]."
+
+EXAMPLE:
+S: "Dr. Johnson, this is Nurse Taylor calling about patient John Smith in room 204A. He's acutely short of breath."
+B: "Mr. Smith is a 67-year-old with CHF admitted 3 days ago. He was improving but in the last hour his breathing has worsened."
+A: "His SpO2 dropped to 88% on 2L NC. RR is 26. BP 158/96. I think he may be in acute pulmonary edema."
+R: "I need you to come assess him now. I've increased O2 to 4L. Should I administer his PRN furosemide?"

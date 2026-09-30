@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+*.env.local
+
+# Node
+node_modules/
+dist/
+.cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Chroma/vector DB (if added)
+chroma_db/
+
+# Test / Coverage
+.pytest_cache/
+htmlcov/
+coverage/
+.coverage
+
+# Database files
+*.sqlite
+*.sqlite3
+*.db
+
+# Frontend build output
+frontend/dist/
+frontend/.env
+frontend/.env.local
+
+# Backend compiled
+backend/dist/
+backend/build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temp files
+*.tmp
+*.bak

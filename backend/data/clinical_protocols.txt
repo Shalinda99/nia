@@ -1,0 +1,239 @@
+===== SEPSIS AND SEPTIC SHOCK PROTOCOL (SURVIVING SEPSIS CAMPAIGN) =====
+
+DEFINITION:
+- Sepsis: Life-threatening organ dysfunction caused by dysregulated host response to infection.
+- SOFA Score >2 points from baseline indicates organ dysfunction.
+- Septic Shock: Sepsis + vasopressor requirement to maintain MAP ≥65 mmHg + serum lactate >2 mmol/L despite adequate fluid resuscitation.
+
+RECOGNITION — qSOFA Score (2 or more = high risk for sepsis):
+1. Respiratory rate ≥22 breaths/min (1 point)
+2. Altered mentation / GCS <15 (1 point)
+3. Systolic BP ≤100 mmHg (1 point)
+
+SEPSIS 1-HOUR BUNDLE (HOUR-1 BUNDLE):
+1. Measure lactate level — resuscitate if lactate ≥4 mmol/L
+2. Obtain blood cultures BEFORE antibiotics (minimum 2 sets from 2 sites)
+3. Administer broad-spectrum antibiotics within 1 hour
+4. Begin rapid 30 mL/kg IV crystalloid bolus (for hypotension or lactate ≥4)
+5. Apply vasopressors if hypotensive during or after fluid resuscitation — target MAP ≥65 mmHg
+
+ANTIBIOTIC EMPIRIC THERAPY:
+- Community-acquired: Piperacillin-tazobactam 3.375g IV Q6H or Ceftriaxone 2g IV daily + Azithromycin
+- Hospital-acquired / HCAP: Vancomycin 25 mg/kg IV + Piperacillin-tazobactam OR Meropenem
+- Known ESBL: Meropenem 1g IV Q8H
+- Neutropenic fever: Piperacillin-tazobactam + Vancomycin
+
+FLUID RESUSCITATION:
+- Use balanced crystalloids (Lactated Ringer's preferred over NS for large volumes)
+- 30 mL/kg IV fluid bolus for hypotension or lactate ≥4 mmol/L
+- Reassess after each bolus with passive leg raise or fluid responsiveness testing
+- Avoid over-resuscitation — monitor for pulmonary edema
+
+VASOPRESSORS:
+- First-line: Norepinephrine (Levophed) — target MAP ≥65 mmHg
+- Add Vasopressin 0.03 units/min if norepinephrine >0.25 mcg/kg/min (to spare norepinephrine)
+- Add Epinephrine or Dopamine as second vasopressor if needed
+- Consider Hydrocortisone 200mg/day IV if vasopressor-refractory shock
+
+MONITORING:
+- Lactate trending (repeat at 2 hours — should be decreasing)
+- UO target ≥0.5 mL/kg/hr
+- Continuous cardiac monitoring, SpO2
+- Blood cultures x2 sets before antibiotics
+- CBC, BMP, LFTs, coagulation studies, procalcitonin, CRP
+
+SOURCE CONTROL:
+- Identify and remove source within 6-12 hours (drain abscess, remove infected device)
+
+NURSING ACTIONS:
+- Initiate sepsis alert protocol immediately
+- Large-bore IV access x2 or central venous access
+- Foley catheter for strict I&O
+- Head of bed 30-45 degrees
+- Frequent vital sign monitoring (q15-30 min during active resuscitation)
+- Notify physician of any deterioration
+- Document fluid administered and response
+
+===== FALL PREVENTION PROTOCOL =====
+
+FALL RISK ASSESSMENT (Morse Fall Scale):
+- History of falls within 3 months: Yes=25, No=0
+- Secondary diagnosis (≥2 medical diagnoses): Yes=15, No=0
+- Ambulatory aid: None/bedrest/wheelchair=0, Crutches/cane/walker=15, Furniture=30
+- IV or heparin lock: Yes=20, No=0
+- Gait: Normal/bedrest=0, Weak=10, Impaired=20
+- Mental status: Oriented to own ability=0, Forgets limitations=15
+
+Score 0-24: Low Risk | 25-44: Medium Risk | 45+: High Risk
+
+FALL PREVENTION INTERVENTIONS (High Risk):
+1. Bed in lowest position at all times
+2. Bed alarm activated at all times
+3. Non-skid footwear in place when OOB
+4. Call light within reach at all times
+5. Hourly rounding — 4 P's (Pain, Position, Potty, Possessions)
+6. Yellow fall risk band on patient wristband
+7. Yellow fall risk sign on patient door
+8. Side rails up x3
+9. Personal items within easy reach
+10. Clear pathway to bathroom
+11. Adequate lighting (nightlight)
+12. Medications review — sedatives, diuretics, antihypertensives increase risk
+13. Ambulate with assist x2 for high-risk patients
+14. Consider physical therapy consult
+
+POST-FALL PROTOCOL:
+1. Ensure patient safety — do NOT move if head/neck injury suspected
+2. Call for help immediately
+3. Assess for injury (head, extremities, back)
+4. Notify charge nurse and attending physician immediately
+5. Document neurological assessment (LOC, pupils, orientation)
+6. Vital signs immediately and q15 min x 1hr
+7. Complete incident report within 1 hour
+8. Reassess fall risk score
+9. Update care plan
+10. Notify family
+11. CT scan of head if anticoagulated or any neurological change
+
+===== PRESSURE INJURY PREVENTION PROTOCOL (NPUAP Staging) =====
+
+BRADEN SCALE RISK FACTORS:
+- Sensory perception (1-4): Ability to respond to pressure-related discomfort
+- Moisture (1-4): Degree to which skin is exposed to moisture
+- Activity (1-4): Degree of physical activity
+- Mobility (1-4): Ability to change and control body position
+- Nutrition (1-4): Usual food intake pattern
+- Friction/Shear (1-3): Assistance needed to move
+
+Score ≤18 = At Risk | ≤12 = High Risk | ≤9 = Very High Risk
+
+PRESSURE INJURY STAGING:
+- Stage 1: Non-blanchable erythema, intact skin
+- Stage 2: Partial thickness skin loss, exposed dermis, blister
+- Stage 3: Full thickness tissue loss, subcutaneous fat may be visible
+- Stage 4: Full thickness tissue/muscle/bone loss
+- Unstageable: Obscured by slough/eschar
+- DTPI (Deep Tissue Pressure Injury): Persistent non-blanchable deep red, maroon, or purple
+
+PREVENTION INTERVENTIONS:
+1. Reposition every 2 hours (q2h) and document
+2. Use heel protectors / float heels off bed
+3. Moisture barrier cream for incontinent patients
+4. Specialty pressure-relieving mattress for high-risk
+5. Nutrition consult for malnutrition risk
+6. Keep skin clean and dry
+7. Nutritional supplementation (Vitamin C, Zinc, Protein)
+8. Assess and document skin at every shift
+9. Do not massage reddened areas
+
+===== CODE BLUE / RAPID RESPONSE TEAM (RRT) PROTOCOL =====
+
+ACTIVATE RAPID RESPONSE (RRT) FOR:
+- Acute change in mental status
+- Respiratory rate <8 or >28 breaths/min
+- SpO2 <90% despite supplemental O2
+- Systolic BP <90 mmHg or MAP <65 mmHg
+- Heart rate <40 or >130 bpm
+- Acute chest pain
+- Nurse concern about patient status — "If in doubt, call it out"
+
+CODE BLUE INDICATORS:
+- Cardiac arrest (no pulse, no breathing)
+- Respiratory arrest
+- Pulseless ventricular tachycardia or ventricular fibrillation
+
+CODE BLUE RESPONSE:
+1. Call code: Press code button OR dial CODE BLUE on phone + state location
+2. Start CPR immediately (30:2 ratio, hard and fast, 100-120/min)
+3. Get AED/defibrillator to bedside
+4. Establish IV access
+5. Assign roles: Team leader, compressor, airway, IV, recorder
+6. Follow ACLS algorithm
+7. Document time of arrest, interventions, medications
+
+BLS SEQUENCE:
+1. Check scene safety
+2. Check responsiveness (tap and shout)
+3. Call for help / activate code
+4. Check pulse (≤10 seconds) and breathing
+5. If no pulse: Begin CPR — 30 compressions, 2 breaths
+6. AED as soon as available — turn on, follow prompts
+7. Continue CPR until AED charged, minimize interruptions
+
+===== PAIN ASSESSMENT AND MANAGEMENT PROTOCOL =====
+
+ASSESSMENT TOOLS:
+- Numeric Rating Scale (NRS): 0-10 (use for alert, cooperative patients)
+  - 0: No pain | 1-3: Mild | 4-6: Moderate | 7-10: Severe
+- CPOT (Critical Care Pain Observation Tool): For intubated/sedated patients
+  - Facial expression, body movements, muscle tension, compliance with ventilator
+  - Score 0-8 (>2 indicates significant pain)
+- FLACC Scale: For pediatric/cognitively impaired patients
+
+REASSESSMENT INTERVALS:
+- After IV pain medication: 30 minutes
+- After PO/IM pain medication: 1 hour
+- Stable pain (NRS ≤3): Every 4 hours
+- Unstable/uncontrolled pain: Every 1-2 hours
+
+PAIN MANAGEMENT LADDER:
+1. Non-pharmacological: Positioning, ice/heat, distraction, music therapy
+2. Non-opioid: Acetaminophen (Tylenol) 325-1000mg PO/IV Q4-6H (max 4g/day), NSAIDs (if no contraindications)
+3. Mild-moderate opioid: Tramadol 50-100mg PO Q4-6H, Oxycodone 5-10mg PO Q4-6H
+4. Moderate-severe opioid: Morphine 2-4mg IV Q4H PRN, Hydromorphone 0.2-0.4mg IV Q3-4H
+5. PCA (Patient Controlled Analgesia): For post-op or oncology patients
+
+OPIOID SAFETY:
+- Monitor respiratory rate and sedation level
+- Naloxone (Narcan) at bedside for opioid patients
+- Naloxone dose: 0.4mg IV/IM for respiratory depression (RR <8, sedation level >2)
+- Do not administer opioids with RR <10 or sedation score ≥3
+
+===== HAND HYGIENE AND INFECTION CONTROL =====
+
+5 MOMENTS OF HAND HYGIENE (WHO):
+1. Before touching patient
+2. Before clean/aseptic procedure
+3. After body fluid exposure/risk
+4. After touching patient
+5. After touching patient surroundings
+
+PROPER TECHNIQUE:
+- Alcohol-based hand rub (ABHR): 20-30 seconds — preferred unless hands visibly soiled or C. diff exposure
+- Soap and water: 40-60 seconds — required for visible soiling, C. diff, Norovirus
+
+ISOLATION PRECAUTIONS:
+- Standard Precautions: ALL patients — gloves, hand hygiene, care with sharps
+- Droplet Precautions: Influenza, COVID-19, pertussis — surgical mask, eye protection
+- Airborne Precautions: TB, measles, varicella — N95 respirator, negative pressure room
+- Contact Precautions: MRSA, VRE, C. diff, ESBL — gown + gloves for ALL contact
+
+===== MEDICATION ADMINISTRATION SAFETY (FIVE RIGHTS + THREE CHECKS) =====
+
+FIVE RIGHTS:
+1. Right Patient — scan wristband, verify name and DOB verbally
+2. Right Drug — verify against MAR and physician order
+3. Right Dose — calculate and double-check (have second nurse verify high-alert meds)
+4. Right Route — verify appropriate route, IV patency
+5. Right Time — within 30 minutes of scheduled time (1 hour for PRN)
+
+THREE CHECKS:
+1. When pulling medication from drawer/storage
+2. When preparing medication
+3. At the bedside before administering
+
+HIGH-ALERT MEDICATIONS (require 2-nurse verification):
+- Insulin (all types)
+- Heparin (IV infusions and subQ)
+- Concentrated electrolytes (KCl, NaCl 3%, MgSO4)
+- Chemotherapy agents
+- Neuromuscular blocking agents
+- Anticoagulants (Warfarin, Lovenox, direct oral anticoagulants)
+- Opioid infusions (morphine, hydromorphone, fentanyl)
+- Vasoactive medications (norepinephrine, epinephrine, vasopressin)
+
+NEVER EVENTS — MEDICATION:
+- Never administer medications to which patient has documented allergy
+- Never give IV potassium undiluted or rapid push
+- Never abbreviate "U" for units (write "units")
+- Never crush extended-release or enteric-coated medications

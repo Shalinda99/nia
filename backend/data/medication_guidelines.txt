@@ -1,0 +1,187 @@
+===== COMMON CARDIAC MEDICATIONS =====
+
+FUROSEMIDE (Lasix)
+- Class: Loop diuretic
+- Mechanism: Inhibits Na-K-2Cl transporter in loop of Henle
+- Indications: CHF, edema, pulmonary edema, hypertension, hypercalcemia
+- Doses: PO: 20-80mg QD-BID; IV: 20-80mg (max 600mg/day); IV drip: 0.1-1mg/kg/hr
+- IV push rate: ≤4 mg/min (max 40mg/min); high doses ≤0.5mg/min (ototoxicity risk)
+- Monitor: Electrolytes (K, Na, Mg), BUN/Cr, BMP, urine output, weight
+- Side effects: Hypokalemia, hypomagnesemia, hyponatremia, ototoxicity, dehydration, increased creatinine
+- Contraindications: Anuria, sulfonamide allergy, hepatic coma
+- Nursing considerations: Monitor I&O, daily weights, electrolyte replacement as ordered
+
+METOPROLOL (Lopressor/Toprol XL)
+- Class: Beta-1 selective beta-blocker
+- Indications: Hypertension, angina, CHF, tachyarrhythmias, post-MI
+- Doses: PO immediate-release: 25-100mg BID; Extended-release: 25-200mg daily; IV: 5mg Q5min x3 (max 15mg for arrhythmia)
+- Monitor: Heart rate (hold if HR <50), BP (hold if SBP <90), blood glucose (may mask hypoglycemia signs)
+- Side effects: Bradycardia, hypotension, fatigue, bronchospasm, depression, erectile dysfunction
+- Contraindications: Severe bradycardia, 2nd/3rd degree AV block, severe bronchospasm, cardiogenic shock
+- Do not abruptly discontinue — taper over 1-2 weeks
+
+LISINOPRIL (Prinivil/Zestril)
+- Class: ACE Inhibitor
+- Indications: Hypertension, CHF, post-MI, diabetic nephropathy
+- Doses: Hypertension: 10-40mg daily; CHF: 5-40mg daily; Start low in CKD
+- Monitor: BP, renal function (K, Cr), presence of cough
+- Side effects: Dry cough (10-15%), hyperkalemia, angioedema (STOP immediately if angioedema), hypotension (first dose), increased creatinine
+- Contraindications: Pregnancy (teratogenic!), bilateral renal artery stenosis, history of ACE-inhibitor angioedema, concurrent with aliskiren in diabetes
+- First-dose hypotension: Give at bedtime; ensure hydration
+
+APIXABAN (Eliquis)
+- Class: Direct Xa inhibitor (DOAC)
+- Indications: Afib stroke prevention, DVT/PE treatment and prevention
+- Doses: Afib: 5mg BID (2.5mg BID if ≥2 of: age ≥80, weight ≤60kg, Cr ≥1.5)
+- DVT/PE treatment: 10mg BID x7 days, then 5mg BID
+- Monitor: Signs of bleeding (GI, intracranial, urinary), hemoglobin
+- Side effects: Bleeding, bruising, anemia
+- Reversal agent: Andexxa (andexanet alfa) for life-threatening bleeding
+- Do NOT crush tablets
+- Hold 24-48 hours before invasive procedures
+
+WARFARIN (Coumadin)
+- Class: Vitamin K antagonist
+- Indications: Afib, mechanical heart valve, DVT/PE, hypercoagulable states
+- Doses: Highly individualized based on INR — typical 2-10mg daily
+- Therapeutic INR: 2-3 for most indications; 2.5-3.5 for mechanical mitral valve
+- Monitor: INR (daily in hospital, weekly to monthly when stable), signs of bleeding
+- Many drug and food interactions (warfarin + antibiotics, warfarin + amiodarone = significantly increased INR)
+- Foods high in Vitamin K decrease effect: leafy greens, broccoli, kale
+- Reversal: Vitamin K (slow) 2.5-10mg PO/IV; FFP/4-factor PCC for urgent reversal
+
+HEPARIN (Unfractionated)
+- Class: Anticoagulant
+- Indications: DVT/PE treatment, ACS, CABG, dialysis, PE prevention
+- DVT prophylaxis: 5000 units SubQ Q8-12H
+- Therapeutic: Weight-based protocol; target aPTT 60-100 seconds
+- CRITICAL: Must double-check dose with second nurse (high-alert medication)
+- Monitor: aPTT, anti-Xa level, CBC for HIT (heparin-induced thrombocytopenia), signs of bleeding
+- Reversal: Protamine sulfate (1mg per 100 units heparin given in last 2-3 hours)
+- HIT: Platelet drop >50% from baseline — STOP heparin immediately, notify physician
+
+===== COMMON ANTIBIOTICS =====
+
+VANCOMYCIN
+- Class: Glycopeptide antibiotic
+- Indications: MRSA, C. diff (PO only), gram-positive infections, endocarditis
+- Dose: 15-20 mg/kg Q8-12H (obese: dose by actual body weight, extend interval); typically 1-1.5g Q12H
+- Target: Trough 10-20 mcg/mL OR AUC/MIC 400-600 (AUC-guided preferred)
+- Monitor: Kidney function (Cr, BUN), trough levels, audiometry if prolonged use
+- Side effects: Red man syndrome (histamine release with rapid infusion — SLOW infusion!), nephrotoxicity, ototoxicity
+- INFUSE SLOWLY: ≤10-15mg/min; if red man syndrome occurs — slow rate, diphenhydramine
+- Adjust dose for renal impairment
+
+MEROPENEM
+- Class: Carbapenem (broad-spectrum beta-lactam)
+- Indications: Severe infections, ESBL organisms, pseudomonas, polymicrobial infections
+- Dose: 1g IV Q8H (standard); 2g IV Q8H for CNS infections or pseudomonas
+- Monitor: Renal function, seizures (lowers seizure threshold), CBC
+- Side effects: Diarrhea, nausea, headache, C. diff risk with prolonged use
+- Carbapenem-resistant organisms (CRE) are emerging — culture and sensitivity critical
+
+PIPERACILLIN-TAZOBACTAM (Zosyn)
+- Class: Extended-spectrum penicillin + beta-lactamase inhibitor
+- Indications: Intra-abdominal infections, hospital-acquired pneumonia, UTI, polymicrobial infections
+- Dose: 3.375g IV Q6H or 4.5g IV Q8H; extended infusion 3.375g over 4hrs Q8H for severe
+- Monitor: Renal function, CBC (may cause neutropenia with prolonged use), electrolytes (contains sodium)
+- Allergy caution: Cross-reactivity with penicillin allergy (low risk ~1-2%)
+
+CEFTRIAXONE (Rocephin)
+- Class: 3rd-generation cephalosporin
+- Indications: Community-acquired pneumonia, meningitis, gonorrhea, UTI, Lyme disease
+- Dose: 1-2g IV/IM daily; 2g Q12H for meningitis
+- Monitor: Renal function, LFTs (biliary sludge with prolonged use in neonates)
+- Side effects: Diarrhea, rash, C. diff risk
+- Do NOT mix with calcium-containing solutions (Ringer's) — precipitates
+
+AZITHROMYCIN (Zithromax)
+- Class: Macrolide antibiotic
+- Indications: Community-acquired pneumonia (atypicals), COPD exacerbation, STIs, MAC prophylaxis
+- Dose: 500mg PO/IV daily (500mg x1, then 250mg x4 for PAC)
+- Monitor: QTc prolongation (avoid with other QT-prolonging drugs, hypokalemia), LFTs
+- Drug interactions: Warfarin (increases INR), QT-prolonging medications
+
+===== INSULIN TYPES AND ADMINISTRATION =====
+
+RAPID-ACTING INSULIN:
+- Aspart (NovoLog), Lispro (Humalog), Glulisine (Apidra)
+- Onset: 10-20 min | Peak: 1-3 hours | Duration: 3-5 hours
+- Use: Mealtime dosing, sliding scale, correction doses
+- Give SubQ 15 minutes before meals OR IV infusion in ICU
+- CRITICAL: Store in refrigerator; do not freeze; clear/colorless
+
+SHORT-ACTING INSULIN:
+- Regular insulin (Humulin R, Novolin R)
+- Onset: 30-60 min | Peak: 2-5 hours | Duration: 5-8 hours
+- IV use: Only regular insulin can be given IV
+- SubQ: Give 30 minutes before meals
+
+INTERMEDIATE-ACTING:
+- NPH (Humulin N, Novolin N)
+- Cloudy appearance — ROLL, do not shake
+- Onset: 1-3 hrs | Peak: 6-12 hrs | Duration: 16-24 hrs
+
+LONG-ACTING INSULIN:
+- Glargine (Lantus, Basaglar), Detemir (Levemir), Degludec (Tresiba)
+- Onset: 2-4 hrs | No peak | Duration: 20-24+ hours
+- Once daily dosing (Lantus/Basaglar: QHS or same time daily)
+- CLEAR solution — do NOT mix with other insulins
+- Do NOT administer IV
+
+INSULIN SAFETY:
+- High-alert medication — REQUIRES double-nurse verification
+- ALWAYS check blood glucose before administering
+- Document blood glucose, dose, and site
+- Rotate injection sites (abdomen absorbs fastest)
+- Hypoglycemia protocol: BG <70 mg/dL — give 15g fast carbs (4oz juice, glucose tabs), recheck in 15 min
+
+===== VASOPRESSORS =====
+
+NOREPINEPHRINE (Levophed)
+- First-line vasopressor for septic shock
+- Mechanism: Alpha-1 > Beta-1 adrenergic agonist (vasoconstriction + inotropy)
+- Dose: 0.01-3 mcg/kg/min IV infusion
+- Target: MAP ≥65 mmHg
+- Requires central venous access (peripheral only in emergency)
+- Monitor: MAP (arterial line preferred), HR, end-organ perfusion, skin color/temperature
+- Side effects: Peripheral vasoconstriction, digital ischemia, tachyarrhythmias, hypertension
+
+VASOPRESSIN
+- Add-on to norepinephrine for septic shock
+- Dose: Fixed rate 0.03 units/min (NOT titrated based on response)
+- Lowers norepinephrine dose requirements
+- Use for vasopressor-refractory shock
+
+DOPAMINE
+- Second-line vasopressor (more arrhythmogenic than norepinephrine)
+- Low dose (1-5 mcg/kg/min): Dopaminergic — renal/splanchnic dilation
+- Medium dose (5-10 mcg/kg/min): Beta-1 — increased CO and HR
+- High dose (>10 mcg/kg/min): Alpha-1 — vasoconstriction
+
+===== RESPIRATORY MEDICATIONS =====
+
+ALBUTEROL (Ventolin, ProAir)
+- Class: Short-acting beta-2 agonist (SABA)
+- Indications: Bronchospasm, asthma, COPD exacerbation
+- Nebulizer dose: 2.5mg in 3mL NS Q4-6H or Q20min for severe
+- MDI: 2 puffs Q4-6H PRN
+- IV: For severe cases only (0.1-0.2 mg/kg/hr)
+- Side effects: Tachycardia, hypokalemia, tremor, palpitations
+- Monitor: Heart rate, potassium, respiratory status
+
+IPRATROPIUM (Atrovent)
+- Class: Short-acting muscarinic antagonist (SAMA)
+- Indications: COPD, bronchospasm (synergistic with albuterol)
+- Nebulizer: 0.5mg Q4-6H
+- Often combined with albuterol (DuoNeb)
+- Side effects: Dry mouth, urinary retention, constipation, blurred vision
+- Caution: Glaucoma (avoid nebulizer in eyes)
+
+METHYLPREDNISOLONE (Solu-Medrol)
+- Class: Systemic corticosteroid
+- Indications: COPD exacerbation, asthma, allergic reactions, inflammation
+- COPD exacerbation: 40mg IV Q12H x 5 days (or prednisolone 40mg PO)
+- Asthma exacerbation: 1-2 mg/kg IV Q6H (max 125mg)
+- Side effects: Hyperglycemia (monitor blood glucose!), hypertension, insomnia, immunosuppression, adrenal suppression
+- Monitor: Blood glucose every 6 hours during treatment, BP
