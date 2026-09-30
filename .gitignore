@@ -63,3 +63,6 @@ backend/build/
 # Temp files
 *.tmp
 *.bak
+
+# Presentation (internal only)
+presentation/
